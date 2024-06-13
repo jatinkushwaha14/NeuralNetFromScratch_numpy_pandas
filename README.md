@@ -13,8 +13,9 @@ This repository contains a basic neural network for classifying handwritten digi
 
 ## Usage
 
-1. Ensure `mnist_train.csv` and `mnist_test.csv` are in the project directory.
-2. Open and run `NeuralNetwork_numpy.ipynb` to train and evaluate the neural network.
+1. Download the MNIST dataset in CSV format from [Kaggle](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv).
+2. Ensure `mnist_train.csv` and `mnist_test.csv` are in the project directory.
+3. Open and run `NeuralNetwork_numpy.ipynb` to train and evaluate the neural network.
 
 ## Notebook Contents
 
